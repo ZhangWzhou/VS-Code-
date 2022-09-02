@@ -7,7 +7,7 @@ Created on Thur Aug 25 11:41 2022
 # Accurate计算器2.0.1
 # 使用须知：
 # 1.本产品由Zhang Wenzhou于2022年8月研发
-# 2.开放源代码 https://github.com/ZhangWzhou/VS-Code-/blob/main/Accurate%E8%AE%A1%E7%AE%97%E5%99%A82.0
+# 2.开放源代码 https://github.com/ZhangWzhou/ZhangWenzhou/blob/main/Accurate%E8%AE%A1%E7%AE%97%E5%99%A82.0.py
 # 3.免费
 # 4.只适用于日常计算，不适用于科学计算
 
