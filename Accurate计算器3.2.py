@@ -7,7 +7,7 @@ Created on Thur Aug 25 11:41 2022
 # Accurate计算器3.2.1
 # 使用须知：
 # 1.本产品由Zhang Wenzhou于2022年8月研发
-# 2.开放源代码 https://github.com/ZhangWzhou/ZhangWenzhou/blob/main/Accurate%E8%AE%A1%E7%AE%97%E5%99%A82.0.py
+# 2.开放源代码 https://github.com/ZhangWzhou/ZhangWenzhou/blob/main/Accurate%E8%AE%A1%E7%AE%97%E5%99%A83.2.py
 # 3.免费
 
 print("欢迎使用Accurate计算器 3.4.1!")
