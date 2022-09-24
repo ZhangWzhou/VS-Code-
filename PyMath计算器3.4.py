@@ -7,7 +7,7 @@ Created on Thur Aug 25 11:41 2022
 # PyMath计算器3.4.1
 # 使用须知：
 # 1.本产品由Zhang Wenzhou于2022年8月研发
-# 2.开放源代码 https://github.com/ZhangWzhou/ZhangWenzhou/blob/main/Accurate%E8%AE%A1%E7%AE%97%E5%99%A83.2.py
+# 2.开放源代码 https://github.com/ZhangWzhou/ZhangWenzhou/blob/main/PyMath%E8%AE%A1%E7%AE%97%E5%99%A83.4.py
 # 3.免费
 
 print("欢迎使用PyMath计算器 3.4.1!")
